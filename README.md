@@ -2,6 +2,8 @@
 
 ![Static Badge](https://img.shields.io/badge/ML-2024_Fall-Green)  ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/iRyougi/ML-Group-Project)  ![GitHub License](https://img.shields.io/github/license/iRyougi/ML-Group-Project)
 
+**未经作者许可，2025年1月1日之前禁止复制、修改或发布该代码**
+
 **其他语言版本: [English](README_en.md), [中文](README.md).**
 
 Machine Learning小组项目，旨在开发一款基于机器学习自动帮助编译器缩进Python的插件（VS Code版本）
