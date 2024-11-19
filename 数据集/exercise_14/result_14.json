@@ -1,1 +1,13 @@
-{}
+{
+    "factorizations": [
+      {
+        "number": 90,
+        "factors": [2, 3, 3, 5]
+      },
+      {
+        "number": 100,
+        "factors": [2, 2, 5, 5]
+      }
+    ]
+}
+  

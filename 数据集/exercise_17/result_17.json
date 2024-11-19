@@ -1,1 +1,10 @@
-{}
+{
+    "input_string": "asdad",
+    "statistics": {
+      "char": 5,
+      "space": 0,
+      "digit": 0,
+      "others": 1
+    }
+}
+  

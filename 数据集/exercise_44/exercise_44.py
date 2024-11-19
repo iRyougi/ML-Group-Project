@@ -13,7 +13,7 @@ result = [[0,0,0],
 # 迭代输出行
 for i in range(len(X)):
    # 迭代输出列
-for j in range(len(X[0])):
-       result[i][j] = X[i][j] + Y[i][j]
-for r in result:
-   print(r)
+    for j in range(len(X[0])):
+        result[i][j] = X[i][j] + Y[i][j]
+    for r in result:
+        print(r)

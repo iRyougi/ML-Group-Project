@@ -9,7 +9,7 @@ for m in range(101, 201):
     k = int(sqrt(m + 1))
 for i in range(2, k + 1):
     if m % i == 0:
-        leap = 0
+leap = 0 #2
     break
 if leap == 1:
     print("%-4d" % m)

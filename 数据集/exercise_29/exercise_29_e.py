@@ -7,7 +7,7 @@ d = x % 100 // 10
 e = x % 10
 if a != 0:
     print("5 位数：", e, d, c, b, a)
-elif b != 0:
+            elif b != 0: #3(多三个缩进)
     print("4 位数：", e, d, c, b)
 elif c != 0:
     print("3 位数：", e, d, c)

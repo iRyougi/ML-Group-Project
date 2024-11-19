@@ -5,7 +5,7 @@ import datetime
 if __name__ == '__main__':
  
     # 输出今日日期，格式为 dd/mm/yyyy。更多选项可以查看 strftime() 方法
-    print(datetime.date.today().strftime('%d/%m/%Y'))
+print(datetime.date.today().strftime('%d/%m/%Y')) #1
     # 创建日期对象
 miyazakiBirthDate = datetime.date(1941, 1, 5)
 print(miyazakiBirthDate.strftime('%d/%m/%Y'))

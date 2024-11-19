@@ -9,9 +9,9 @@ others = 0
 for c in s:
     if c.isalpha():
         letters += 1
-elif c.isspace():
+    elif c.isspace():
         space += 1
-elif c.isdigit():
+    elif c.isdigit():
         digit += 1
 else:
         others += 1

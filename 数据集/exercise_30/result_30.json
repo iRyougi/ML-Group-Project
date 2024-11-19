@@ -1,1 +1,6 @@
-{}
+{
+    "input_number": 200,
+    "is_palindrome": false,
+    "message": "200 不是一个回文数!"
+}
+  
