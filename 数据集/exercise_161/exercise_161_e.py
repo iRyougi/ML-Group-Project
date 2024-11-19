@@ -3,7 +3,7 @@ def total(numbers):
     result = 0
     for number in numbers:
         result += number
-    return result
+        return result  # 1
 
 
 # Example run
