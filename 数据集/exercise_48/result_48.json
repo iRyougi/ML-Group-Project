@@ -1,1 +1,8 @@
-{}
+{
+    "comparison": {
+      "first_value": 10,
+      "second_value": 20,
+      "is_less_than": true
+    }
+}
+  

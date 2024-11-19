@@ -3,7 +3,7 @@ def print_diamond(rows):
     for i in range(1, rows, 2):
         spaces = " " * ((rows - i) // 2)
         stars = "*" * i
-        print(spaces + stars)
+print(spaces + stars) #2
 
     # 下半部分
     for i in range(rows, 0, -2):

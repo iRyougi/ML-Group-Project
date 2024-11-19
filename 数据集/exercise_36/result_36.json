@@ -1,1 +1,8 @@
-{}
+{
+    "range": {
+      "min_value": 1,
+      "max_value": 7
+    },
+    "result": 1
+}
+  

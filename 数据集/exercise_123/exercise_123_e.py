@@ -10,4 +10,4 @@ num_ints = [int(num_str) for num_str in num_str_list]
 # 4
 reversed_nums = list(reversed(num_ints))
 
-print(reversed_nums)
+    print(reversed_nums) #0

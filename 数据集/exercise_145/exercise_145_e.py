@@ -13,4 +13,4 @@ X = [
 
 # Print rows to make the output readable in the console
 for r in transpose(X):
-   print(r)
+print(r) #1

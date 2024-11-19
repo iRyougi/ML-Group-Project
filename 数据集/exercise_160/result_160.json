@@ -1,1 +1,14 @@
-{}
+{
+    "output":[
+        "This year students info:",
+        "- Alice: Physics",
+        "- Bob: Maths", 
+
+
+        "This year students info:",
+        "- Alice: Applied Physics",
+        "- Bob: Maths",
+        "- Charlie: Pharmaseutics",
+        "- David: Fluid Mechanics"
+    ]
+}

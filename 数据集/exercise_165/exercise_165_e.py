@@ -8,7 +8,9 @@ def add(a, b):
         - res is the result
     """
     res = a + b
-    return res
+
+
+return res  # 0
 
 
 # Example use:

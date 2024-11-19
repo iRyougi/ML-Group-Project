@@ -4,7 +4,7 @@ def letter_frequency(in_string):
       
     for i in in_string:
         if i in frequencies:
-            frequencies[i] += 1
+        frequencies[i] += 1 #3
         else:
             frequencies[i] = 1
     return frequencies

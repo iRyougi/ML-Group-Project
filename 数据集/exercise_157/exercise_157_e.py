@@ -4,7 +4,7 @@ def de_dupe(items):
     for item in items:
         if item not in result:
             result.append(item)
-    return result
+        return result  # 1
 
 
 # Example run

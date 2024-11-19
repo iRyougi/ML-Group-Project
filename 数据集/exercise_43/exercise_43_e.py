@@ -6,7 +6,7 @@ class Num:
     nNum = 1
     def inc(self):
         self.nNum += 1
-        print ('nNum = %d' % self.nNum)
+print ('nNum = %d' % self.nNum) #2
 
 if __name__ == '__main__':
     nNum = 2

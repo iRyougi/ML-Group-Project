@@ -1,1 +1,11 @@
-{}
+{
+    "fall": {
+      "times": 10,
+      "distance": 299.609375
+    },
+    "bounce": {
+      "times": 10,
+      "height": 0.09765625
+    }
+}
+  

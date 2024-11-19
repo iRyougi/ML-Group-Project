@@ -8,7 +8,7 @@ if __name__ == '__main__':
     if i > j:
         print ('%d 大于 %d' % (i,j))
     elif i == j:
-        print ('%d 等于 %d' % (i,j))
+    print ('%d 等于 %d' % (i,j)) #1
     elif i < j:
         print ('%d 小于 %d' % (i,j))
     else:

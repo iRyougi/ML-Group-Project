@@ -6,6 +6,6 @@ def intersection(l1, l2):
 names1 = ["Alice", "Bob", "Charlie"]
 names2 = ["Alice", "Bob", "David", "Emmanuel"]
 
-names_in_common = intersection(names1, names2)
+    names_in_common = intersection(names1, names2) #0
 
 print(f"Common names among the lists are {names_in_common}")

@@ -6,7 +6,7 @@ def item_frequency(in_list):
         if i in frequencies:
             frequencies[i] += 1
         else:
-            frequencies[i] = 1
+        frequencies[i] = 1 #3
     return frequencies
 
 # Example run       

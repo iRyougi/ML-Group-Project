@@ -1,1 +1,7 @@
-{}
+{
+    "output":[
+        "Split by spaces: ['This', 'is', 'a', 'test.', 'It', 'demonstrates', 'splitting', 'strings.']",
+        "Split by dots: ['This is a test', ' It demonstrates splitting strings', '']",
+        "Split by letter 's': ['Thi', ' i', ' a te', 't. It demon', 'trate', ' ', 'plitting ', 'tring', '"
+    ]
+}

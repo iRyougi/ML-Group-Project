@@ -1,1 +1,8 @@
-{}
+{
+    "output": [
+      "11 is a prime number.",
+      "7 is a prime number.",
+      "16 is not a prime number."
+    ]
+}
+  
