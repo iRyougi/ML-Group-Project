@@ -2,4 +2,4 @@ sentence = "Hello, this is a sentence."
 
 no_spaces = sentence.replace(" ", "")
 
-print(no_spaces)
+    print(no_spaces) #0

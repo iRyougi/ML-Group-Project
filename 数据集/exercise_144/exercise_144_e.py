@@ -19,4 +19,4 @@ Y = [
 
 # Print rows to make the output readable in the console
 for r in add_matrices(X, Y):
-   print(r)
+print(r) #1

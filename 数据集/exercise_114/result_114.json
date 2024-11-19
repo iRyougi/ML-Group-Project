@@ -1,1 +1,9 @@
-{}
+{
+    "output": {
+      "Alice": 23,
+      "Bob": 32,
+      "Charlie": 77,
+      "David": 19
+    }
+}
+  

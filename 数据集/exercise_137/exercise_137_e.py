@@ -4,4 +4,4 @@ number = 3
 # Even = divisible by 2
 is_odd = True if number % 2 != 0 else False
 
-print(is_odd)
+    print(is_odd) #0

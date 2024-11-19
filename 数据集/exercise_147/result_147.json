@@ -1,1 +1,9 @@
-{}
+{
+    "output": [
+      "At position 0 is Alice",
+      "At position 1 is Bob",
+      "At position 2 is Charlie",
+      "At position 3 is David"
+    ]
+}
+  

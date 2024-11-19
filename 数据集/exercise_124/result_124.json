@@ -1,1 +1,12 @@
-{}
+{
+    "input_prompts": [
+      "Enter your weight in kilos: ",
+      "Enter your height in centimeters: "
+    ],
+    "user_inputs": {
+      "weight": 70,
+      "height": 175
+    },
+    "output": "Your weigh 70.0kg and you are 175.0cm tall. This gives you BMI index of 22.857142857142858"
+}
+  
