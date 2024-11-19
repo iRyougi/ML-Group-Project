@@ -2,18 +2,18 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
 if __name__ == '__main__':
-    zi = int(raw_input('输入一个数字:\n'))
-n1 = 1
-c9 = 1
-m9 = 9
-sum = 9
-while n1 != 0:
+    zi = int(13)
+    n1 = 1
+    c9 = 1
+    m9 = 9
+    sum = 9
+    while n1 != 0:
         if sum % zi == 0:
             n1 = 0
-else:
+        else:
             m9 *= 10
-sum += m9
-c9 += 1
-print '%d 个 9 可以被 %d 整除 : %d' % (c9,zi,sum)
-r = sum / zi
-print '%d / %d = %d' % (sum,zi,r)
+            sum += m9
+            c9 += 1
+    print ('%d 个 9 可以被 %d 整除 : %d' % (c9,zi,sum))
+        r = sum / zi # 1
+    print ('%d / %d = %d' % (sum,zi,r))

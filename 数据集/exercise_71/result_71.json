@@ -1,1 +1,4 @@
-{}
+{
+    "line1":"Please input a string:",
+    "line2":"the string has 22 characters."
+}
