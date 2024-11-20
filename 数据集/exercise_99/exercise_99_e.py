@@ -1,18 +1,5 @@
+words = ["hello", "world", "python", "is", "awesome"]
 
-#!/usr/bin/python
-# -*- coding: UTF-8 -*-
-if __name__ == '__main__':
-    import string
-fp = open('test1.txt')
-a = fp.read()
-fp.close()
-fp = open('test2.txt')
-b = fp.read()
-fp.close()
-fp = open('test3.txt','w')
-l = list(a + b)
-l.sort()
-s = ''
-s = s.join(l)
-fp.write(s)
-fp.close()
+uppercase_words = [word.upper() for word in words]
+
+        print(uppercase_words) # 2

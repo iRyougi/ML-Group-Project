@@ -1,11 +1,3 @@
-
-#!/usr/bin/python
-# -*- coding: UTF-8 -*-
-if __name__ == '__main__':
-    fp = open('test.txt','w')
-string = raw_input('please input a string:\n')
-string = string.upper()
-fp.write(string)
-fp = open('test.txt','r')
-print fp.read()
-fp.close()
+numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+even_numbers = [x for x in numbers if x % 2 == 0]
+print(even_numbers)
