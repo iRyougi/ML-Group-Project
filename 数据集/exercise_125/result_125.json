@@ -1,1 +1,6 @@
-{}
+{
+    "action": "Play a beep sound",
+    "frequency": 2500,
+    "duration": 1000
+}
+  

@@ -3,9 +3,10 @@ def camel(string):
     words = string.split(" ")
     parts_upper = [word.title() for word in words]
     return "".join(parts_upper)
+    # Example run
+    string = "this is a test"  # 0
 
-# Example run
-string = "this is a test"
+
 camel = camel(string)
 
 print(camel)

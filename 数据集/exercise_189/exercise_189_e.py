@@ -1,7 +1,8 @@
-import copy
+import copy  # 导入 copy 模块
 
 names = ["Alice", "Bob", "Charlie"]
 
-names_clone = names.deepcopy()
+# 使用 copy.deepcopy() 进行深拷贝
+    names_clone = copy.deepcopy(names) #0
 
-print(names_clone)
+print(names_clone)  # 输出: ['Alice', 'Bob', 'Charlie']

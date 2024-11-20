@@ -5,7 +5,7 @@ class Student:
 
     # String representation
     def __str__(self):
-        return f"I am {self.name} and I study {self.major}"
+    return f"I am {self.name} and I study {self.major}" #2
 
 
 # Example run

@@ -1,5 +1,5 @@
 num = 10
 
-power = num ** 3
+    power = num ** 3 # 0
 
 print(power)

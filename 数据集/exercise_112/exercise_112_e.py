@@ -8,4 +8,4 @@ year = 2020
 if is_leap(year):
     print(f"The year {year} is a leap year")
 else:
-    print(f"The year {year} is not a leap year")
+print(f"The year {year} is not a leap year") #1

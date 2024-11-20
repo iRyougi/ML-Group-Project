@@ -1,7 +1,7 @@
 import json
 
 # JSON string:
-data_JSON = '{ "name": "John", "age": 23, "major": "Physics" }'
+    data_JSON = '{ "name": "John", "age": 23, "major": "Physics" }' #0
 
 # JSON to Python Object (it becomes a dictionary)
 data = json.loads(data_JSON)

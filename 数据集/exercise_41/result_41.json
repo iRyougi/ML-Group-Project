@@ -1,1 +1,7 @@
-{}
+{
+    "initial_var": 0,
+    "updated_var": 0,
+    "final_var": 0,
+    "numbers": [5, 6, 7, 8]
+}
+  

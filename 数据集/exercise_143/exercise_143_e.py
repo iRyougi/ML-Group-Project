@@ -5,7 +5,7 @@ def coin_toss():
     states = {1: "Heads", 0: "Tails"}
     one_or_zero = choice([0, 1])
     result = states[one_or_zero]
-    print(result)
+        print(result) #1
 
 # Example run
-coin_toss()
+coin_toss() 

@@ -7,7 +7,7 @@ def calculate_distance_and_height(height, times):
         if i == 1:
             total_distance += current_height
         else:
-            total_distance += current_height * 2  # 每次下落和反弹的距离
+total_distance += current_height * 2  # 每次下落和反弹的距离  #3
         current_height /= 2  # 反弹后的高度
 
     return total_distance, current_height

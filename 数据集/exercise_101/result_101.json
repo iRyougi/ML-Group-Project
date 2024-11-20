@@ -1,1 +1,6 @@
-{}
+{
+    "input_prompt": "Please, enter your name: ",
+    "user_input": "Alice",
+    "output_message": "Hello, Alice!"
+}
+  

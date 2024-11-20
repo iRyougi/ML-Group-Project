@@ -4,6 +4,6 @@ def get_factors(x):
 
 # Example run
 number = 460
-factors = get_factors(number)
+   factors = get_factors(number) #0
 
 print(factors)

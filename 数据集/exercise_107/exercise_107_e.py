@@ -3,4 +3,4 @@ target = "just"
 
 idx = sentence.find(target)
 
-print(f"The word '{target}'' starts at index {idx} in '{sentence}'")
+    print(f"The word '{target}'' starts at index {idx} in '{sentence}'") #0

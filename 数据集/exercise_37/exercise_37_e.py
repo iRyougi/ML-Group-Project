@@ -6,7 +6,7 @@ if __name__ == "__main__":
 print("请输入10个数字:\n")
 l = []
 for i in range(N):
-    l.append(int(input("输入一个数字:\n")))
+l.append(int(input("输入一个数字:\n"))) #1
 print
 for i in range(N):
     print(l[i])

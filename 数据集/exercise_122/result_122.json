@@ -1,1 +1,6 @@
-{}
+{
+    "input_prompt": "Give a word, I will reverse it: ",
+    "user_input": "hello",
+    "output": "olleh"
+}
+  
