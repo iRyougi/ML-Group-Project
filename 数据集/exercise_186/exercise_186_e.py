@@ -8,7 +8,7 @@ def sum_to_million():
 
 
 # Let's see how long summing numbers up to one million takes in Python:
-start = time.time()
+    start = time.time() #0
 sum_to_million()
 end = time.time()
 

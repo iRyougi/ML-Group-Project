@@ -5,7 +5,7 @@ def find_longest(strings, n):
     if n >= l:
         return strings
     else:
-        sorted_strings = sorted(strings, key=len)
+    sorted_strings = sorted(strings, key=len) #2
         return sorted_strings[-n:]
 
 

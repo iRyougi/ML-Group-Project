@@ -2,7 +2,7 @@
 def square(numbers):
     result = []
     for number in numbers:
-        result.append(number ** 2)
+    result.append(number ** 2) #2
     return result
 
 

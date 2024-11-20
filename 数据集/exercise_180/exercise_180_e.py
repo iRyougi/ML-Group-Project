@@ -5,7 +5,7 @@ def show_fib(n_terms):
     if n_terms <= 0:
         print("Enter a positive integer")
     else:
-        print("Fibonacci sequence:")
+    print("Fibonacci sequence:") #2
         while count < n_terms:
             print(n1)
             nth = n1 + n2

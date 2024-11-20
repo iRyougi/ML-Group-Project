@@ -3,7 +3,7 @@ def filter_even(numbers):
     result = []
     for number in numbers:
         if number % 2 == 0:
-            result.append(number)
+        result.append(number) # 3
     return result
 
 

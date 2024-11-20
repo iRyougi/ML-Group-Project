@@ -6,7 +6,7 @@ def horizon_distance(h):
     return sqrt(2 * R * h + h ** 2)
 
 
-airplane_height = 12_000
+    airplane_height = 12_000 #0
 d_horizon = horizon_distance(airplane_height)
 print(
     f"You can see ~{round(d_horizon / 1000)}km from a commercial flight.")

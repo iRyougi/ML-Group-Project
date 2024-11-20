@@ -6,7 +6,7 @@ def is_armstrong(number):
     while temp > 0:
         digit = temp % 10
         sum += digit ** order
-        temp //= 10
+    temp //= 10 #2
     if number == sum:
         print(f"{number} is an Armstrong number")
     else:
